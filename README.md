@@ -12,3 +12,7 @@ Step I - Reading the catalog and selection of the subsample;
 Step II - Measurement of the statistical distribution of various properties;
 Step III - Measurement of the evolution of the properties of the sample;
 Step IV - Analysis of diagrams.
+
+The catalog is provided in fits format, containing different columns.
+Each galaxy is flagged with a number from 1 to 75, and to each one of you it will be
+assigned one of these number.
