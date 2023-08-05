@@ -16,3 +16,5 @@ Step IV - Analysis of diagrams.
 The catalog is provided in fits format (data_SDSS_info.fit), containing different columns. 
 
 A more in depth analisys of the third step is given in file: Relazione_Step_3.pdf
+
+The Python script for the whole project is containted in file: codice_Cavazzini_Lorenzo.py
