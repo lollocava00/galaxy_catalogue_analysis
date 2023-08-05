@@ -13,6 +13,8 @@ Step II - Measurement of the statistical distribution of various properties;
 Step III - Measurement of the evolution of the properties of the sample;
 Step IV - Analysis of diagrams.
 
-The catalog is provided in fits format, containing different columns.
+The catalog is provided in fits format (data_SDSS_info.fit), containing different columns.
 Each galaxy is flagged with a number from 1 to 75, and to each one of you it will be
-assigned one of these number.
+assigned one of these number. 
+
+A more in depth analisys of the third step is given in file: Relazine_Step_3.pdf
